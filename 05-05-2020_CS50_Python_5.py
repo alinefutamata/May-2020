@@ -1,0 +1,3 @@
+# Blur picture
+
+before =
